@@ -11,6 +11,9 @@ console.log(age);
 console.log(learningAutom);
 console.log(automTools);
 console.log(user);
+console.log("------------------------");
+console.log("------------------------");
 
-console.log(age > 18);
-console.log((age > 18) && (learningAutom === true));
+// Appendix - Understanding the logic for comparison and logical operators
+console.log(age > 18);      // true
+console.log((age > 18) && (learningAutom === true));    // true
